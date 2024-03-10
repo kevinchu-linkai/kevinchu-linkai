@@ -25,14 +25,8 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />
 <img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/unity/unity.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" />
-<img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/vscode/vscode.png" />
 <br />
 <br />
-
-
-## 📊 My Github Stats:
-
-[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinchu-linkai&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🤝 Connect with Me:
 
