@@ -1,4 +1,4 @@
-# Hi there, I'm Kevin Chu! 👋
+# Hi there, This is Kevin Chu! 👋
 
 ## 🙋‍♂️ About Me
 
