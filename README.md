@@ -2,14 +2,8 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently a Bachelor of Science student in Computer Science at New York University, Abu Dhabi.
-- 🌱 I’m currently learning NLP, Software Engineering, and Operating Systems.
-- 👯 I’m looking to collaborate on projects related to Data Analysis, Machine Learning, or anything exciting in the tech world.
-- 🤔 I’m looking for help with advanced Computational Linguistics and Virtual Reality projects.
-- 💬 Ask me about Python, Data Analysis, VR Development, or any tech-related stuff.
-- 📫 How to reach me: [kc4624@nyu.edu](mailto:kc4624@nyu.edu)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I founded a Cigarette Butt Recycling Organization, highlighting my commitment to environmental sustainability.
+- 🔭 I’m currently a Masrter of Science student in Computer Science at UCL.
+- 📫 How to reach me: [kevin.chu.25@ucl.ac.uk](mailto:kevin.chu.25@ucl.ac.uk)
 
 ## 🛠️ Technologies and Tools I Use:
 
